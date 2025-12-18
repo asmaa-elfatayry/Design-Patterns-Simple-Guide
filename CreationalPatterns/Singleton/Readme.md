@@ -25,4 +25,4 @@ It is commonly used when exactly one object is needed to coordinate actions acro
 
 For a step-by-step explanation with simple examples and diagrams, check the Notion page:
 
-🔗 https://www.notion.so/Singleton-Design-Patterns-2cd5b020cd9a80d69485e60f14255910
+🔗 [View detailed explanation on Notion](https://www.notion.so/Singleton-Design-Patterns-2cd5b020cd9a80d69485e60f14255910)
