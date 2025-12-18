@@ -1,0 +1,15 @@
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\bin\Debug\net10.0\AdapterLiveExample.exe
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\bin\Debug\net10.0\AdapterLiveExample.deps.json
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\bin\Debug\net10.0\AdapterLiveExample.runtimeconfig.json
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\bin\Debug\net10.0\AdapterLiveExample.dll
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\bin\Debug\net10.0\AdapterLiveExample.pdb
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\obj\Debug\net10.0\AdapterLiveExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\obj\Debug\net10.0\AdapterLiveExample.AssemblyInfoInputs.cache
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\obj\Debug\net10.0\AdapterLiveExample.AssemblyInfo.cs
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\obj\Debug\net10.0\AdapterLiveExample.csproj.CoreCompileInputs.cache
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\obj\Debug\net10.0\AdapterLiveExample.sourcelink.json
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\obj\Debug\net10.0\AdapterLiveExample.dll
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\obj\Debug\net10.0\refint\AdapterLiveExample.dll
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\obj\Debug\net10.0\AdapterLiveExample.pdb
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\obj\Debug\net10.0\AdapterLiveExample.genruntimeconfig.cache
+D:\self-study\Learning Fullstack\DesignPatterns.SimpleGuide\StructuralPatterns\Adapter\AdapterLiveExample\AdapterLiveExample\obj\Debug\net10.0\ref\AdapterLiveExample.dll

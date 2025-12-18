@@ -13,7 +13,7 @@ This repository explains Design Patterns using:
 
 
 ### 2️⃣ Structural Patterns 
-
+- **Adapter**
 
 ### 3️⃣ Behavioral Patterns 
 
