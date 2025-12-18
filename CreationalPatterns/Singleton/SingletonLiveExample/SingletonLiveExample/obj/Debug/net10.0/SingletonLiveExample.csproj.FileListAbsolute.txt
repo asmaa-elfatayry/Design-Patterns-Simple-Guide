@@ -1,0 +1,14 @@
+D:\self-study\Learning Fullstack\SingletonLiveExample\SingletonLiveExample\bin\Debug\net10.0\SingletonLiveExample.exe
+D:\self-study\Learning Fullstack\SingletonLiveExample\SingletonLiveExample\bin\Debug\net10.0\SingletonLiveExample.deps.json
+D:\self-study\Learning Fullstack\SingletonLiveExample\SingletonLiveExample\bin\Debug\net10.0\SingletonLiveExample.runtimeconfig.json
+D:\self-study\Learning Fullstack\SingletonLiveExample\SingletonLiveExample\bin\Debug\net10.0\SingletonLiveExample.dll
+D:\self-study\Learning Fullstack\SingletonLiveExample\SingletonLiveExample\bin\Debug\net10.0\SingletonLiveExample.pdb
+D:\self-study\Learning Fullstack\SingletonLiveExample\SingletonLiveExample\obj\Debug\net10.0\SingletonLiveExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\self-study\Learning Fullstack\SingletonLiveExample\SingletonLiveExample\obj\Debug\net10.0\SingletonLiveExample.AssemblyInfoInputs.cache
+D:\self-study\Learning Fullstack\SingletonLiveExample\SingletonLiveExample\obj\Debug\net10.0\SingletonLiveExample.AssemblyInfo.cs
+D:\self-study\Learning Fullstack\SingletonLiveExample\SingletonLiveExample\obj\Debug\net10.0\SingletonLiveExample.csproj.CoreCompileInputs.cache
+D:\self-study\Learning Fullstack\SingletonLiveExample\SingletonLiveExample\obj\Debug\net10.0\SingletonLiveExample.dll
+D:\self-study\Learning Fullstack\SingletonLiveExample\SingletonLiveExample\obj\Debug\net10.0\refint\SingletonLiveExample.dll
+D:\self-study\Learning Fullstack\SingletonLiveExample\SingletonLiveExample\obj\Debug\net10.0\SingletonLiveExample.pdb
+D:\self-study\Learning Fullstack\SingletonLiveExample\SingletonLiveExample\obj\Debug\net10.0\SingletonLiveExample.genruntimeconfig.cache
+D:\self-study\Learning Fullstack\SingletonLiveExample\SingletonLiveExample\obj\Debug\net10.0\ref\SingletonLiveExample.dll
