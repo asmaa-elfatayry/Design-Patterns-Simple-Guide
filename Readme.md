@@ -8,14 +8,14 @@ This repository explains Design Patterns using:
 
 ## Patterns Covered
 
-### 1️⃣ Creational Patterns (إنشائية)
-- **Singleton** – إنشاء نسخة واحدة فقط من الكلاس
+### 1️⃣ Creational Patterns 
+- **Singleton**
 
 
-### 2️⃣ Structural Patterns (هيكلية)
+### 2️⃣ Structural Patterns 
 
 
-### 3️⃣ Behavioral Patterns (سلوكية)
+### 3️⃣ Behavioral Patterns 
 
 
 Made with ❤️ for beginners
