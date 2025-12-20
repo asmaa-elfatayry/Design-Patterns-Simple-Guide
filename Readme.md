@@ -27,6 +27,8 @@ This repository explains **Design Patterns** using:
 
 ### 2️⃣ Structural Patterns
 - **Adapter**: Allows incompatible interfaces to work together by wrapping an object with a compatible interface.  
+- **Decorator**: Allows you to add new behavior to an object dynamically without changing its original code.  
+
 
 ### 3️⃣ Behavioral Patterns
 - **Null Object**: Provides a default object with "do nothing" behavior instead of returning `null`.  
