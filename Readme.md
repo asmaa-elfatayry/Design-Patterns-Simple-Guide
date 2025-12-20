@@ -27,7 +27,8 @@ Quick, simple guide for learning or review.
 
 
 ### 3️⃣ Behavioral 
-- **Null Object** – Default object with “do nothing” behavior.
+- **Observer** 👀 – Subject notifies observers automatically when its state changes.
+- **Null Object** ⚠ – Default object with “do nothing” behavior.
 
 ---
 
