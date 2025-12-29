@@ -27,8 +27,13 @@ Quick, simple guide for learning or review.
 
 
 ### 3️⃣ Behavioral 
-- **Observer** 👀 – Subject notifies observers automatically when its state changes.
-- **Null Object** ⚠ – Default object with “do nothing” behavior.
+- **Observer 👀** – Subject notifies observers automatically when its state changes.
+
+- **Strategy 🎯** – Allows an object to change its behavior at runtime by switching between different algorithms (strategies).
+
+- **Command 🎮** – Encapsulates a request/action as an object, decoupling the sender from the executor.
+
+- **Null Object ⚠** – Default object with “do nothing” behavior.
 
 ---
 
