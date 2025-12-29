@@ -18,15 +18,22 @@ Quick, simple guide for learning or review.
 ## Patterns Covered
 
 ### 1️⃣ Creational 
-- **Singleton** – One instance, global access.  
+
+- **Singleton** – One instance, global access. 
+
 - **Factory** – Create objects without exposing instantiation logic.  
 
+- **Builder** – Construct complex objects step by step, separating construction from the final product.
+
 ### 2️⃣ Structural Patterns
-- **Adapter**: Allows incompatible interfaces to work together by wrapping an object with a compatible interface.  
+
+- **Adapter**: Allows incompatible interfaces to work together by wrapping an object with a compatible interface. 
+
 - **Decorator**: Allows you to add new behavior to an object dynamically without changing its original code.  
 
 
 ### 3️⃣ Behavioral 
+
 - **Observer 👀** – Subject notifies observers automatically when its state changes.
 
 - **Strategy 🎯** – Allows an object to change its behavior at runtime by switching between different algorithms (strategies).
