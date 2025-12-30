@@ -31,6 +31,7 @@ Quick, simple guide for learning or review.
 
 - **Decorator**: Allows you to add new behavior to an object dynamically without changing its original code.  
 
+- **Facade** – Provides a simplified interface to a complex subsystem, hiding internal complexity from the client.
 
 ### 3️⃣ Behavioral 
 
