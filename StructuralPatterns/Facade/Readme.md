@@ -20,6 +20,6 @@ It hides the complexity of multiple classes and exposes **one unified entry poin
 
 ### 📘 Detailed Explanation (Notion)
 
-For step-by-step explanation with simple examples like **Login System**, **Home Theater**, and **Order Processing**, check the Notion page:
+For step-by-step explanation with simple examples check the Notion page:
 
 🔗 [View detailed explanation on Notion](https://www.notion.so/Facade-Design-Pattern-2d95b020cd9a807289c5d2394691ae29?source=copy_link)

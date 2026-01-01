@@ -33,6 +33,10 @@ Quick, simple guide for learning or review.
 
 - **Facade** – Provides a simplified interface to a complex subsystem, hiding internal complexity from the client.
 
+- **Proxy** – Provides a surrogate or placeholder for another object to **control access**, add extra behavior (security, caching, lazy loading), without changing the real object.
+
+
+
 ### 3️⃣ Behavioral 
 
 - **Observer 👀** – Subject notifies observers automatically when its state changes.
