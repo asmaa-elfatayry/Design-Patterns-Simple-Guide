@@ -19,33 +19,33 @@ Quick, simple guide for learning or review.
 
 ### 1️⃣ Creational 
 
-- **Singleton** – One instance, global access. 
+- [**Singleton**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/CreationalPatterns/Singleton) – One instance, global access. 
 
-- **Factory** – Create objects without exposing instantiation logic.  
+- [**Factory**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/CreationalPatterns/Factory) – Create objects without exposing instantiation logic.  
 
-- **Builder** – Construct complex objects step by step, separating construction from the final product.
+- [**Builder**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/CreationalPatterns/Builder) – Construct complex objects step by step, separating construction from the final product.
 
 ### 2️⃣ Structural Patterns
 
-- **Adapter**: Allows incompatible interfaces to work together by wrapping an object with a compatible interface. 
+- [**Adapter**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/StructuralPatterns/Adapter) - Allows incompatible interfaces to work together by wrapping an object with a compatible interface. 
 
-- **Decorator**: Allows you to add new behavior to an object dynamically without changing its original code.  
+- [**Decorator**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/StructuralPatterns/Decorator) - Allows you to add new behavior to an object dynamically without changing its original code.  
 
-- **Facade** – Provides a simplified interface to a complex subsystem, hiding internal complexity from the client.
+- [**Facade**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/StructuralPatterns/Facade) – Provides a simplified interface to a complex subsystem, hiding internal complexity from the client.
 
-- **Proxy** – Provides a surrogate or placeholder for another object to **control access**, add extra behavior (security, caching, lazy loading), without changing the real object.
+- [**Proxy**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/StructuralPatterns/Proxy) – Provides a surrogate or placeholder for another object to **control access**, add extra behavior without changing the real object.
 
 
 
 ### 3️⃣ Behavioral 
 
-- **Observer 👀** – Subject notifies observers automatically when its state changes.
+- [**Observer**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/BehavioralPatterns/Observer) – Subject notifies observers automatically when its state changes.
 
-- **Strategy 🎯** – Allows an object to change its behavior at runtime by switching between different algorithms (strategies).
+- [**Strategy**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/BehavioralPatterns/Strategy) – Allows an object to change its behavior at runtime by switching between different algorithms (strategies).
 
-- **Command 🎮** – Encapsulates a request/action as an object, decoupling the sender from the executor.
+- [**Command**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/BehavioralPatterns/Command) – Encapsulates a request/action as an object, decoupling the sender from the executor.
 
-- **Null Object ⚠** – Default object with “do nothing” behavior.
+- [**Null Object**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/BehavioralPatterns/NullObjectPattern) – Default object with “do nothing” behavior.
 
 ---
 
