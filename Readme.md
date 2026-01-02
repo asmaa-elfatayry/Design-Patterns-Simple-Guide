@@ -23,6 +23,8 @@ Quick, simple guide for learning or review.
 
 - [**Factory**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/CreationalPatterns/Factory) – Create objects without exposing instantiation logic.  
 
+- [**Abstract Factory**]() – Provides an interface to create families of related objects without specifying their concrete classes.
+
 - [**Builder**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/CreationalPatterns/Builder) – Construct complex objects step by step, separating construction from the final product.
 
 ### 2️⃣ Structural Patterns
