@@ -48,6 +48,9 @@ Quick, simple guide for learning or review.
 
 - [**Command**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/BehavioralPatterns/Command) – Encapsulates a request/action as an object, decoupling the sender from the executor.
 
+- [**Mediator**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/BehavioralPatterns/Mediator)  – Centralizes communication between objects, allowing interaction without knowing each other’s internal details.
+
+
 - [**Null Object**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/BehavioralPatterns/NullObjectPattern) – Default object with “do nothing” behavior.
 
 ---
