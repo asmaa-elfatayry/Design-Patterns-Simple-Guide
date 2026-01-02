@@ -7,7 +7,7 @@ The client only interacts with abstract interfaces, allowing easy switching betw
 
 ---
 
-## Simple Explanation (From Zero)
+## Simple Explanation 
 Instead of creating objects directly using new, we delegate creation to an Abstract Factory.
 Each factory produces a family of related objects, ensuring compatibility. The client only works with the factory interface, not the concrete classes.
 
