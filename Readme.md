@@ -61,5 +61,5 @@ Quick, simple guide for learning or review.
 
 **Complete Notion Page:** [View Here](https://www.notion.so/Design-Patterns-Simple-Guide-2cd5b020cd9a808cb9afda329d688d5f?source=copy_link)  
 
-> ⚠ Each folder contains the **individual Notion link** for detailed examples.
+> ⚠ Each folder contains the **individual Notion link** for detailed examples. 
 
