@@ -38,6 +38,8 @@ Quick, simple guide for learning or review.
 
 - [**Proxy**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/StructuralPatterns/Proxy) – Provides a surrogate or placeholder for another object to **control access**, add extra behavior without changing the real object.
 
+- [**Bridge**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/StructuralPatterns/Bridge) – Separates an **abstraction** from its **implementation**, allowing both to vary independently, improving flexibility and extensibility.
+
 
 
 ### 3️⃣ Behavioral 
