@@ -17,7 +17,7 @@ Quick, simple guide for learning or review.
 
 ## Patterns Covered
 
-### 1️⃣ Creational 
+### 1️⃣ Creational Patterns
 
 - [**Singleton**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/CreationalPatterns/Singleton) – One instance, global access. 
 
@@ -42,7 +42,7 @@ Quick, simple guide for learning or review.
 
 
 
-### 3️⃣ Behavioral 
+### 3️⃣ Behavioral Patterns
 
 - [**Observer**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/BehavioralPatterns/Observer) – Subject notifies observers automatically when its state changes.
 
