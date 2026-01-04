@@ -48,6 +48,8 @@ Quick, simple guide for learning or review.
 
 - [**Strategy**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/BehavioralPatterns/Strategy) – Allows an object to change its behavior at runtime by switching between different algorithms (strategies).
 
+- [**State**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/BehavioralPatterns/State) – Allows an object to change its behavior automatically when its internal state changes, without using complex conditional statements.
+
 - [**Command**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/BehavioralPatterns/Command) – Encapsulates a request/action as an object, decoupling the sender from the executor.
 
 - [**Mediator**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/BehavioralPatterns/Mediator)  – Centralizes communication between objects, allowing interaction without knowing each other’s internal details.
