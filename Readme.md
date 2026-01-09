@@ -29,7 +29,7 @@ Quick, simple guide for learning or review.
 
 - [**Prototype**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/CreationalPatterns/Prototype) – Create new objects by **cloning existing ones**, avoiding expensive initialization and enabling flexible object creation.
 
-  
+   
 ### 2️⃣ Structural Patterns
 
 - [**Adapter**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/StructuralPatterns/Adapter) - Allows incompatible interfaces to work together by wrapping an object with a compatible interface. 
