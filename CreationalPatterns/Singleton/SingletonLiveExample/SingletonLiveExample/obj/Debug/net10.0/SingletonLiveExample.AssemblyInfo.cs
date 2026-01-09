@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingletonLiveExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75aa888b542a1499196f22e376f6df62698172d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingletonLiveExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingletonLiveExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

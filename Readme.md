@@ -27,6 +27,8 @@ Quick, simple guide for learning or review.
 
 - [**Abstract Factory**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/CreationalPatterns/Abstract%20Factory) – Provides an interface to create families of related objects without specifying their concrete classes.
 
+- [**Prototype**](https://github.com/asmaa-elfatayry/Design-Patterns-Simple-Guide/tree/main/CreationalPatterns/Prototype) – Create new objects by **cloning existing ones**, avoiding expensive initialization and enabling flexible object creation.
+
   
 ### 2️⃣ Structural Patterns
 
